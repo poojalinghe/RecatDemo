@@ -17,7 +17,7 @@
     "classnames": "^2.2.6",
     "font-awesome": "^4.7.0",
     "fusioncharts": "^3.15.0-sr.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.15",
     "mdbreact": "^4.23.1",
     "passport": "^0.4.1",
